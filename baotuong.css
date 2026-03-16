@@ -1,0 +1,56 @@
+body{
+    background-color:lavender;
+    padding:20px;
+}
+.modau{
+    background-color:coral;
+    color:white;
+    margin:20px;
+    text-align:center;
+    font-size:30px;
+    border:solid;
+}
+.gioithieu1{
+    background-color:lightyellow;
+    border:solid;
+    color:darkred;
+    margin:15px;
+}
+.gioithieu2{
+    background-color:lightyellow;
+    border:solid;
+    color:darkred;
+    margin:15px;
+}
+h2{ 
+    font-size:30px;
+    color:crimson;
+    margin:15px;
+}
+p{
+    font-size:24px;
+    margin:15px;
+}
+p.red{color:rebeccapurple;}
+ul{
+    font-size:25px;
+    color:rebeccapurple;
+}
+h3{ 
+    color:brown;
+    font-size:25px;
+    margin:15px;
+}
+label{
+    font-size:24px;
+    margin:15px;
+}
+input{
+    background-color:lavender;
+    font-size:24px;
+    padding:2px 20px;
+}
+textarea{
+     background-color:lavender;
+    font-size:20px;
+}
